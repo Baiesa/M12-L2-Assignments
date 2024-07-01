@@ -1,0 +1,16 @@
+
+---
+
+Navigate to the `approont` directory on your computer:
+Run this: `npx create-vite advanced-e-commerce-react --template react`
+Run this: `npm install react-router-dom@6.22.3 react-bootstrap@2.10.2 bootstrap@5.3.3`
+Run this: `npm install react-redux@9.1.1 @reduxjs/toolkit@2.2.3`
+- Assuming react@18.2.0
+Create these directories/files in your `src` folder:
+- components folder 
+  ...
+  here all rest of filles will comes 
+
+---
+
+Let me know if you need any more adjustments!
